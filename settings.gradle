@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "finf_my_phone"
