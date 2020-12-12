@@ -19,7 +19,7 @@
 		<property name="driverClass" value="org.mariadb.jdbc.Driver" />
 		<property name="url" value="jdbc:mariadb://localhost:3307/homepage" />
 		<property name="username" value="jim" />
-		<property name="password" value="gyu-09!@EDqwd" />
+		<property name="password" value="password" /> <!-- your password -->
 	</bean>
 
 		<!-- 매핑 정보 -->
