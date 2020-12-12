@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "finf_my_phone"
+rootProject.name = "find_my_phone"

@@ -1,4 +1,4 @@
-package com.example.finf_my_phone;
+package com.example.find_my_phone;
 
 import org.junit.Test;
 
