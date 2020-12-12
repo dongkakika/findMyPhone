@@ -68,6 +68,6 @@
 <body>
   <button class="btn111">이전 위치</button>
   <div id="map" style="width:500px;height:380px;"></div>
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMl8-apgSpVgF1ZfhGBkc9HxALytmSrho&callback=initMap&region=kr"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOURAPIKEY&callback=initMap&region=kr"></script>
 </body>
 </html>
